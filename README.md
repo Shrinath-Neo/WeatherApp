@@ -1,16 +1,7 @@
 # ysec_weather_app
 
-A new Flutter project.
+This is simple weather app by using local json data, Where user can search the different city temperature with different color.
 
-## Getting Started
+![ysec_weather_app] (\assets\home.jpg) (\assets\settings.jpg) ![ysec_weather_app](\assets\search.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
